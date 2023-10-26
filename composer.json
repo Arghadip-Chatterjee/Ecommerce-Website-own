@@ -1,0 +1,6 @@
+{
+    "require": {
+        "razorpay/razorpay": "^2.8",
+        "art4/requests-psr18-adapter": "^1.1"
+    }
+}
